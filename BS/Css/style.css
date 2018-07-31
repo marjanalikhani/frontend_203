@@ -1,0 +1,407 @@
+@import "reset.css";
+
+/**************************************************Global**************************************************/
+:root{
+    --upcolor: #46436d;
+    --uporange:#f48f21;
+    --upred:#ee4238;
+    --upblue:#6dcacd;
+    --uppurple:#aa6aaa;
+    --upyellow:#efd314;
+    --upsky:#199fcd;
+    --uppink:#d84b93;
+    --upgreen:#c4d32e;
+
+}
+@font-face {
+    font-family: "sans";
+    src:url(../../fonts/IRANSansLight.eot) ,
+    url(../../fonts/IRANSansLight.eot?#iefix) format("embedded-opentype"),
+    url(../../fonts/IRANSansLight.woff) format("woff"),
+    url(../../fonts/IRANSansLight.ttf) format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+    direction: rtl;
+    font-family: sans, Tahoma;
+
+}
+
+
+/**************************************************\Global**************************************************/
+
+
+/**************************************************Header**************************************************/
+
+
+
+
+.up1{
+    width: 12.5%;
+    padding-bottom:3px;
+    background:var(--uporange);
+    float: right;
+
+
+}
+.up2{
+    width:12.5%;
+    padding-bottom:3px;
+    background:var(--upred);
+    float: right;
+
+
+}
+.up3{
+    width: 12.5%;
+    padding-bottom:3px;
+    background:var(--upblue);
+    float: right;
+
+
+}
+.up4{
+    width:12.5%;
+    padding-bottom:3px;
+    background:var(--uppurple);
+    float: right;
+
+
+}
+.up5{
+    width:12.5%;
+    padding-bottom:3px;
+    background:var(--upyellow);
+    float: right;
+
+
+}
+.up6{
+    width: 12.5%;
+    padding-bottom:3px;
+    background:var(--upsky);
+    float: right;
+
+
+}
+.up7{
+    width:12.5%;
+    padding-bottom:3px;
+    background:var(--uppink);
+    float: right;
+
+
+}
+.up8{
+    width:12.5%;
+    padding-bottom:3px;
+    background:var(--upgreen);
+    float: left;
+
+
+}
+header nav{
+    background-color:var(--upcolor);
+    color: white;
+    padding-bottom:50px;
+ padding-top: 20px;
+
+
+
+}
+header nav  ul{
+
+}
+header nav ul li{
+    display: inline;
+}
+header nav ul li i{
+   border-radius:50%;
+    border:2px solid white;
+    float: left;
+    margin-left: 10px;
+    padding: 7px;
+
+}
+header nav ul li span{
+
+}
+header nav ul li span i{
+    border-radius:50%;
+    border:2px solid yellow;
+    padding: 7px;
+    color: yellow;
+
+}
+header nav ul.social li{
+
+    float: right;
+    font-weight:bolder ;
+}
+/**************************************************\Header**************************************************/
+/**************************************************slider**************************************************/
+section.slider{
+
+}
+
+section.slider ul{
+    display: inline;
+}
+
+section.slider ul li{
+    background-color:grey;
+
+}
+section.slider ul li.active{
+
+}
+section.slider ul li.active img{
+    width: 100%;
+    opacity: 0.2;
+    position: relative;
+
+}
+section.slider ul h1{
+    position: absolute;
+    right: 350px;
+    top:200px;
+    color: white;
+    margin: auto;
+    font-weight:bolder ;
+}
+
+section.slider ul p {
+    position: absolute;
+    right: 320px;
+    top: 250px;
+    color: yellow;
+    font-weight:bolder ;
+}
+section.slider ul div.angle{
+    position: absolute;
+    right:405px;
+    top:360px;
+
+}
+section.slider ul div.angle i{
+    border-radius:50%;
+    border:3px solid white;
+    padding: 7px;
+    color: white;
+
+}
+/**************************************************\slider**************************************************/
+/**************************************************services**************************************************/
+.well{
+    background: white;
+    border: none;
+    box-shadow: none;
+    text-align: center;
+}
+.col-xs-2{
+    text-align: justify;
+}
+.side{
+    margin-top: 30px;
+    text-align: center;
+    clear: both;
+
+}
+.dn01{
+    margin-top: 30px;
+    text-align: center;
+    background-color: #adabbe;
+    padding-bottom: 60px;
+    position: relative;
+
+}
+div.dn01 h1{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: white;
+
+}
+.dn02{
+    position: absolute;
+    right:74px;
+    top:147px;
+    color: white;
+
+}
+.dn03{
+    position: absolute;
+    left:74px;
+    top:147px;
+    color: white;
+
+}
+div.dn04 h1 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: white;
+    text-align: center;
+}
+.dn04 {
+    background:#77d0c4;
+    margin: auto;
+    position: relative;
+    clear: both;
+    height: 300px;
+}
+.bx{
+    width:500px;
+    height: 50px;
+    margin: auto;
+    clear: both;
+    text-align: center;
+    padding-top: 10px;
+
+}
+.arrow_box {
+    position: relative;
+    background: #ffffff;
+}
+.arrow_box:after {
+    top: 100%;
+    left: 50%;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+    border-color: rgba(255, 255, 255, 0);
+    border-top-color: #ffffff;
+    border-width: 10px;
+    margin-left: -10px;
+}
+
+div.dn04 ul li{
+    display: inline;
+    margin-left:30px;
+}
+.container{
+
+    margin: auto;
+
+
+}
+img.img-circle{
+    border:4px solid lightseagreen;
+    position: relative;
+}
+.dn05{
+    border:4px solid lightseagreen;
+    opacity:1;
+    position: relative;
+}
+.dn06{
+    border:4px solid lightseagreen;
+    opacity:0.2;
+    position: relative;
+}
+.dn07{
+     position: absolute;
+     right:123px;
+     top:175px;
+     color: white;
+ }
+.dn08{
+    position: absolute;
+    left:123px;
+    top:175px;
+    color: white;
+}
+
+.map{
+    width: 100%;
+    opacity:0.2;
+
+}
+.backmap{
+    background:#f9a0ce;
+    position: relative;
+}
+
+.contact{
+    position: absolute;
+    top:25px;
+    right: 375px;
+
+    font-weight: bolder;
+    color: white;
+}
+
+.textbox{
+    position: absolute;
+    top:1500px;
+    right: 250px;
+    clear: both;
+
+}
+.footer {
+    width: 100%;
+    height: 50px;
+    background-color: #abafbe;
+    padding-top: 20px;
+}
+.icon01{
+    position: absolute;
+    top:1455px;
+    right: 250px;
+}
+.icon02{
+    position: absolute;
+    top:1455px;
+    right: 290px;
+}
+.icon03{
+    position: absolute;
+    top:1455px;
+    right: 330px;
+}
+.icon04{
+    position: absolute;
+    top:1455px;
+    right: 370px;
+}
+.icon05{
+    position: absolute;
+    top:1455px;
+    right: 410px;
+}
+.icon06{
+    position: absolute;
+    top:1455px;
+    right: 450px;
+}
+.icon07{
+    position: absolute;
+    top:1455px;
+    right: 490px;
+}
+.icon08{
+    position: absolute;
+    top:1455px;
+    right: 530px;
+}
+.fnt{
+    font-size: 12px;
+    line-height: 20px;
+
+}
+.video{
+    width: 150px;
+    height:50px;
+    background-color: yellow;
+    position: absolute;
+    top:300px;
+    right:350px;
+    text-align: center;
+    padding-top: 20px;
+    -webkit-clip-path: polygon(0 7%, 100% 23%, 100% 71%, 0 76%);
+    clip-path: polygon(0 7%, 100% 23%, 100% 71%, 0 76%);
+
+}

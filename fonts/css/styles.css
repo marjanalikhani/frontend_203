@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "sans";
+    src:url(../fonts/IRANSansLight.eot) ,
+    url(../fonts/IRANSansLight.eot?#iefix) format("embedded-opentype"),
+    url(../fonts/IRANSansLight.woff) format("woff"),
+    url(../fonts/IRANSansLight.ttf) format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+Header h3{
+    font-family:IRANSansMedium ;
+}

@@ -1,0 +1,26 @@
+@font-face {
+    font-family: "sans";
+    src:url(../fonts/IRANSansLight.eot) ,
+    url(../fonts/IRANSansLight.eot?#iefix) format("embedded-opentype"),
+    url(../fonts/IRANSansLight.woff) format("woff"),
+    url(../fonts/IRANSansLight.ttf) format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+    direction: rtl;
+    /*font-family: sans, Tahoma;*/
+
+}
+header img{
+   float: right;
+}
+ header h4 {
+     float: right;
+     color: orangered;
+    font-family: sans,IRANSansLight;
+     font-weight: 300;
+     line-height: 20px;
+     font-size: 1.2em;
+ }
