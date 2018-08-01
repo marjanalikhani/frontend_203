@@ -15,6 +15,7 @@ body{
 }
 header img{
    float: right;
+
 }
  header h4 {
      float: right;
@@ -23,4 +24,5 @@ header img{
      font-weight: 300;
      line-height: 20px;
      font-size: 1.2em;
+
  }
