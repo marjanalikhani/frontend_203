@@ -58,8 +58,6 @@ header  img{
  .box00{
      background-color: white;
      padding:30px;
-
-
  }
 .box01{
     width: 70px;
@@ -84,17 +82,15 @@ header  img{
     float: left;
     margin-left: 25px;
     font-size: 14px;
-margin-top: -1px;
+    margin-top: -1px;
     color: black;
 
 }
 .box03{
     background-color: rgba(233,74,53,0.8);
     width: 100%;
-    padding-top:15px;
-    padding-bottom: 15px;
-
-
+    padding-top:12px;
+    padding-bottom: 12px;
     font-family: sans;
     color: white;
     font-size: 13px;
@@ -102,20 +98,39 @@ margin-top: -1px;
     font-kerning: auto;
 
 }
-
-
-.box03 li{
-    margin-left: 15px;
-
+.box04{
+    padding-top: 19px;
+    padding-bottom: 15px;
+    padding-left:4px;
+    padding-right:4px ;
+    position: absolute ;
+    background-color:rgba(0,198,80,0.7) ;
+top:61px;
+    left:20px;
 }
-
+.box03 li{
+    margin-left: 17px;
+}
+.box03 li span{
+    margin-left: 5px;
+    font-size: 20px;
+}
 
 .li01{
     float: left;
 }
-
-
-
+.li02:hover{
+    background-color: rgba(255,255,255,0.2);
+    padding-top: 14px;
+    padding-bottom: 10px;
+}
+.li01:hover{
+    background-color:rgba(0,198,80,1) ;
+    padding-top: 19px;
+    padding-bottom: 15px;
+    padding-left: 4px;
+    padding-right:4px ;
+}
 
 /**************************************************\Header**************************************************/
 
