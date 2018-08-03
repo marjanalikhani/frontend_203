@@ -1,3 +1,4 @@
+@import "reset.css";
 @font-face {
     font-family: "sans";
     src:url(../fonts/IRANSansLight.eot) ,
@@ -24,11 +25,9 @@ header ul{
 header ul li{
 display: inline;
 }
-header ul li img{
+header  img{
     float: right;
-    margin-top: -26px;
-    margin-right:-50px;
-
+    margin-top: -13px;
 }
  header  ul li h4 {
      float: right;
@@ -37,37 +36,40 @@ header ul li img{
      font-weight: 300;
      line-height: 20px;
      font-size: 1.2em;
-     margin-top:-20px;
-     margin-right: 10px;
+     margin-top: -3px;
+     margin-right: 9px;
 
  }
- header .box00 ul li span i{
+  .i01{
      position: absolute;
-     left: 55px;
      color: white;
-     margin-top:-15px;
      font-size:12px;
-     margin-left: 25px;
+     top: 27px;
+     left: 82px;
+
  }
- header .box00 ul li i{
+  .i02{
      float: left;
-     margin-left: 8px;
+     margin-left: 14px;
      font-size:12px;
-     margin-top:-13px;
+     margin-top:-1px;
      color: black;
  }
  .box00{
      background-color: white;
-     padding:15px;
-     margin-bottom: 2px;
+     padding:30px;
+
+
  }
 .box01{
     width: 70px;
-    height:30px ;
+    padding-top: 10px;
+   padding-bottom: 10px;
     background-color: rgba(233,74,53,0.8);
     float: left;
     color: white;
-    margin-top:-20px;
+    margin-top: -13px;
+    padding-top: 7px;
     font-family: sans;
     text-align: center;
     font-size: 15px;
@@ -82,16 +84,17 @@ header ul li img{
     float: left;
     margin-left: 25px;
     font-size: 14px;
-    margin-top:-17px;
+margin-top: -1px;
     color: black;
+
 }
 .box03{
     background-color: rgba(233,74,53,0.8);
-    padding-top:1px;
-    padding-bottom: 1px;
-    clear: both;
-    margin-top: 0px;
-    width:100%;
+    width: 100%;
+    padding-top:15px;
+    padding-bottom: 15px;
+
+
     font-family: sans;
     color: white;
     font-size: 13px;
@@ -99,19 +102,30 @@ header ul li img{
     font-kerning: auto;
 
 }
+
+
 .box03 li{
-    margin-left:15px;
+    margin-left: 15px;
 
 }
-.box03 li span i{
-font-size: 20px;
-margin-left: 5px;
 
-   }
-.box03 li:hover{
-    padding-top: 13px;
-    padding-bottom: 13px;
-    background-color: rgba(255,255,255,0.3);
+
+.li01{
+    float: left;
 }
+
+
+
 
 /**************************************************\Header**************************************************/
+
+
+/**************************************************Nav**************************************************/
+nav img{
+    width: 100%;
+   margin-left: 0px;
+}
+
+
+
+/**************************************************\Nav**************************************************/
