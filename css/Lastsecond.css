@@ -8,12 +8,11 @@
     font-weight: normal;
     font-style: normal;
 }
-
 @media (min-width: 768px) {
     .container{
         width: 750px;
     }
-  }
+}
 @media (min-width: 922px) {
     .container{
         width: 970px;
@@ -21,19 +20,17 @@
 }
 
 @media (min-width: 1200px) {
-   .container{
-       width: 1170px;
-   }
+    .container{
+        width: 1170px;
+    }
 }
+
 body{
     direction: rtl;
     font-family: sans, Tahoma;
 
 }
-a{
-    color: white;
-    text-decoration: none;
-}
+
 /**************************************************Header**************************************************/
 header ul{
 
@@ -60,8 +57,8 @@ header  img{
      position: absolute;
      color: white;
      font-size:12px;
-     top: 27px;
-     left: 82px;
+     top: 25px;
+     left: 77px;
 
  }
   .i02{
@@ -73,7 +70,7 @@ header  img{
  }
  .box00{
      background-color: white;
-     padding:30px;
+     padding:25px;
  }
 .box01{
     width: 70px;
@@ -105,12 +102,12 @@ header  img{
 .box03{
     background-color: rgba(233,74,53,0.8);
     width: 100%;
-    padding-top:12px;
-    padding-bottom: 12px;
+    padding-top:7px;
+    padding-bottom: 1px;
     font-family: sans;
     color: white;
-    font-size: 13px;
-    font-weight: bold;
+    font-size: 15px;
+
     font-kerning: auto;
     -webkit-box-shadow: 0px 15px 40px -8px rgba(0,0,0,0.75);
     -moz-box-shadow: 0px 15px 40px -8px rgba(0,0,0,0.75);
@@ -119,13 +116,13 @@ header  img{
 
 }
 .box04{
-    padding-top: 19px;
-    padding-bottom: 15px;
+    padding-top: 14px;
+    padding-bottom: 14px;
     padding-left:7px;
     padding-right:7px ;
     position: absolute ;
     background-color:rgba(0,198,80,0.7) ;
-top:61px;
+    top:60px;
     left:20px;
 }
 .box03 li{
@@ -143,14 +140,19 @@ top:61px;
 .li02:hover{
     background-color: rgba(255,255,255,0.2);
     padding-top: 14px;
-    padding-bottom: 10px;
+    padding-bottom: 12px;
+    color: white;
 }
 .li01:hover{
     background-color:rgba(0,198,80,1) ;
-    padding-top: 19px;
-    padding-bottom: 15px;
+    padding-top: 14px;
+    padding-bottom: 14px;
     padding-left: 7px;
     padding-right:7px ;
+}
+header .box03 a{
+    color: white;
+    text-decoration: none;
 }
 
 /**************************************************\Header**************************************************/
@@ -169,9 +171,9 @@ border-bottom:solid white 1px ;
 
 .nav00 {
     position: absolute;
-    top:107px;
-    right: 248px;
-    width: 346px;
+    top:106px;
+    right: 225px;
+    width: 460px;
     height: 50px;
     background-color: rgba(255,255,255,0.8);
     padding-right: 80px;
@@ -179,9 +181,9 @@ border-bottom:solid white 1px ;
 }
 .nav02 {
     position: absolute;
-    top:107px;
-    right: 676px;
-    width: 346px;
+    top:106px;
+    right: 684px;
+    width: 460px;
     height: 50px;
     background-color: rgba(255,255,255,0.8);
     padding-right: 80px;
@@ -190,20 +192,23 @@ padding-left: 50px;
 }
 .nav01{
     position: absolute;
-    top:127px;
-    right: 258px;
+    top:121px;
+    right: 245px;
     color: orangered;
+    font-family: sans;
 }
 .nav03{
     position: absolute;
-    top:127px;
+    top:121px;
     right: 700px;
     color: orangered;
+
+    font-family: sans;
 }
 .nav04{
     position: absolute;
-    top:127px;
-    right: 1118px;
+    top:124px;
+    right: 1112px;
     color: black;
     font-size: 20px;
 }
@@ -224,6 +229,70 @@ padding-left: 50px;
     margin-top: -30px;
     color: orangered;
     font-size: 20px;
+    font-family: sans;
 
 }
 /**************************************************\Nav**************************************************/
+/**************************************************article**************************************************/
+
+.toorbox01{
+
+    margin: 19px;
+    height: 170px;
+    padding-bottom: 210px;
+    background:rgba(233,74,53,0.8) url("../images/06.jpg");
+
+background-repeat: no-repeat;
+}
+.toorbox02{
+
+     margin: 19px;
+    height: 170px;
+    padding-bottom: 210px;
+    background:rgba(233,74,53,0.8) url("../images/05.jpg");
+
+    background-repeat: no-repeat;
+}
+.toorbox03{
+
+    margin: 19px;
+    height: 170px;
+    padding-bottom: 210px;
+    background:rgba(233,74,53,0.8)  url("../images/04.jpg");
+
+    background-repeat: no-repeat;
+}
+.toorbox04{
+
+    margin: 19px;
+    height: 170px;
+padding-bottom: 210px;
+    background:rgba(233,74,53,0.8)  url("../images/03.jpg") ;
+
+    background-repeat: no-repeat;
+}
+.toorbox05{
+
+    margin: 19px;
+    height: 170px;
+    padding-bottom: 210px;
+    background:rgba(233,74,53,0.8)  url("../images/02.jpg");
+
+    background-repeat: no-repeat;
+}
+.toorbox06{
+
+    margin: 19px;
+    height: 170px;
+    padding-bottom: 210px;
+    background:rgba(233,74,53,0.8)  url("../images/01.jpg");
+
+    background-repeat: no-repeat;
+}
+
+.downbox01{
+    position: relative;
+    top: 175px;
+    font-family: sans;
+}
+/**************************************************\article**************************************************/
