@@ -75,7 +75,7 @@ header  img{
 .box01{
     width: 70px;
     padding-top: 10px;
-   padding-bottom: 10px;
+    padding-bottom: 10px;
     background-color: rgba(233,74,53,0.8);
     float: left;
     color: white;
@@ -107,7 +107,6 @@ header  img{
     font-family: sans;
     color: white;
     font-size: 15px;
-
     font-kerning: auto;
     -webkit-box-shadow: 0px 15px 40px -8px rgba(0,0,0,0.75);
     -moz-box-shadow: 0px 15px 40px -8px rgba(0,0,0,0.75);
@@ -117,7 +116,7 @@ header  img{
 }
 .box04{
     padding-top: 14px;
-    padding-bottom: 14px;
+    padding-bottom: 12px;
     padding-left:7px;
     padding-right:7px ;
     position: absolute ;
@@ -146,7 +145,7 @@ header  img{
 .li01:hover{
     background-color:rgba(0,198,80,1) ;
     padding-top: 14px;
-    padding-bottom: 14px;
+    padding-bottom: 12px;
     padding-left: 7px;
     padding-right:7px ;
 }
@@ -161,7 +160,7 @@ header .box03 a{
 /**************************************************Nav**************************************************/
 nav img{
     width: 100%;
-border-bottom:solid white 1px ;
+    border-bottom:solid white 1px ;
     -webkit-box-shadow: 0px 15px 40px -8px rgba(0,0,0,0.75);
     -moz-box-shadow: 0px 15px 40px -8px rgba(0,0,0,0.75);
     box-shadow: 0px 15px 40px -8px rgba(0,0,0,0.75);
@@ -187,7 +186,7 @@ border-bottom:solid white 1px ;
     height: 50px;
     background-color: rgba(255,255,255,0.8);
     padding-right: 80px;
-padding-left: 50px;
+    padding-left: 50px;
     font-family: sans;
 }
 .nav01{
@@ -239,54 +238,44 @@ padding-left: 50px;
 
     margin: 19px;
     height: 170px;
-    padding-bottom: 210px;
+    padding-bottom: 202px;
     background:rgba(233,74,53,0.8) url("../images/06.jpg");
-
-background-repeat: no-repeat;
+    background-repeat: no-repeat;
+    color: white;
 }
 .toorbox02{
-
-     margin: 19px;
+    margin: 19px;
     height: 170px;
-    padding-bottom: 210px;
+    padding-bottom: 202px;
     background:rgba(233,74,53,0.8) url("../images/05.jpg");
-
     background-repeat: no-repeat;
 }
 .toorbox03{
-
     margin: 19px;
     height: 170px;
-    padding-bottom: 210px;
+    padding-bottom: 202px;
     background:rgba(233,74,53,0.8)  url("../images/04.jpg");
-
     background-repeat: no-repeat;
 }
 .toorbox04{
-
     margin: 19px;
-    height: 170px;
-padding-bottom: 210px;
+    height: 175px;
+    padding-bottom: 202px;
     background:rgba(233,74,53,0.8)  url("../images/03.jpg") ;
-
     background-repeat: no-repeat;
 }
 .toorbox05{
-
     margin: 19px;
     height: 170px;
-    padding-bottom: 210px;
+    padding-bottom: 202px;
     background:rgba(233,74,53,0.8)  url("../images/02.jpg");
-
     background-repeat: no-repeat;
 }
 .toorbox06{
-
     margin: 19px;
     height: 170px;
-    padding-bottom: 210px;
+    padding-bottom: 202px;
     background:rgba(233,74,53,0.8)  url("../images/01.jpg");
-
     background-repeat: no-repeat;
 }
 
@@ -294,5 +283,127 @@ padding-bottom: 210px;
     position: relative;
     top: 175px;
     font-family: sans;
+    color: white;
+    font-size: 10px;
+}
+
+
+
+
+article .downbox01 .tooltip {
+    position: absolute;
+    display: inline-block;
+    font-family: sans;
+    opacity: 1;
+    font-size: 14px;
+    right: -7px;
+}
+
+ .tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+    opacity:0;
+    transition: opacity 0.3s;
+     font-family: sans;
+}
+
+.tooltip .tooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+}
+
+
+
+
+
+
+article .downbox01 .tooltip01 {
+    position: absolute;
+    display: inline-block;
+    font-family: sans;
+    opacity: 1;
+    left:-9px;
+    font-size: 14px;
+
+
+}
+
+.tooltip01 .tooltiptext01 {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+    opacity:0;
+    transition: opacity 0.3s;
+    font-family: sans;
+
+}
+
+.tooltip01 .tooltiptext01::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+
+}
+
+.tooltip01:hover .tooltiptext01 {
+    visibility: visible;
+    opacity: 1;
+}
+article .circle{
+    border:solid 1px black;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    background: white;
+    color:black ;
+    position: absolute;
+    left: 65px;
+    top:-8px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    border-color: transparent;
+    font-size: 14px;
+    line-height: 12px;
+    -webkit-box-shadow: 0px 0px 7px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 7px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 7px 0px rgba(0,0,0,0.75);
+
+
 }
 /**************************************************\article**************************************************/
