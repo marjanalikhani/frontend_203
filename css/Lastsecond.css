@@ -8,6 +8,11 @@
     font-weight: normal;
     font-style: normal;
 }
+@font-face {
+    font-family: 'byekant';
+    src: url('../fonts/BYekan.woff') format('woff2'),
+    url('../fonts/BYekan.eot') format('eot');
+}
 @media (min-width: 768px) {
     .container{
         width: 750px;
@@ -27,7 +32,8 @@
 
 body{
     direction: rtl;
-    font-family: sans, Tahoma;
+    font-family: byekant;
+    /*font-family: sans, Tahoma;*/
     
 
 }
