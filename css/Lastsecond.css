@@ -32,7 +32,7 @@
 
 body{
     direction: rtl;
-    font-family: byekant;
+    font-family: BYekan;
     /*font-family: sans, Tahoma;*/
     
 
@@ -223,17 +223,17 @@ nav img{
     width: 100%;
     background-color: white;
     border-bottom: black solid 1px;
-    padding-top: 50px;
+    padding-top: 70px;
 }
 
 .nav06{
     width: 150px;
-    padding-top:20px ;
-    padding-bottom: 20px;
+
+    padding-bottom: 40px;
     background-color: white;
     text-align: center;
     margin: auto;
-    margin-top: -30px;
+    margin-top: -10px;
     color: orangered;
     font-size: 20px;
     font-family: sans;
@@ -442,4 +442,88 @@ article .downbox02 a{
     color: black;
     text-decoration: none;
 }
+
+
+
 /**************************************************\article**************************************************/
+
+
+
+/**************************************************section2**************************************************/
+.shahr01{
+    width: 100%;
+    background-color: white;
+    border-bottom: black solid 1px;
+    padding-top: 270px;
+}
+
+.shahr02{
+    width: 150px;
+    padding-top:20px ;
+    padding-bottom: 20px;
+    background-color: white;
+    text-align: center;
+    margin: auto;
+    margin-top: -30px;
+    color: orangered;
+    font-size: 20px;
+    font-family: sans;
+
+}
+
+.shahr03{
+    float: right;
+}
+
+
+
+.row {
+    display: flex;
+    /*flex-wrap: wrap;*/
+    padding: 0 4px;
+}
+
+/* Create four equal columns that sits next to each other */
+.column {
+    /*flex: 25%;*/
+    max-width: 50%;
+    padding: 0 4px;
+}
+
+.column img {
+    margin-top: 8px;
+    vertical-align: middle;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 800px) {
+    .column {
+        flex: 50%;
+        max-width: 50%;
+    }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+    .column {
+        flex: 100%;
+        max-width: 100%;
+    }
+}
+.album01{
+    width: 132px;
+    height: 130px;
+}
+.album02{
+    width: 270px;
+    height:270px;
+}
+.album03{
+    width: 400px;
+    height:410px;
+}
+
+/**************************************************\section2**************************************************/
+
+
+
