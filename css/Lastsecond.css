@@ -522,15 +522,50 @@ article .downbox02 a{
 .album03{
     width: 400px;
     height:410px;
+    -webkit-filter: brightness(50%);
 }
 section .album01:hover {
 
 -webkit-filter: brightness(50%);
 }
 
-.fade-in{
-    -moz-animation: linear;
+
+
+section .searchbox{
+    position: absolute;
+    width: 300px;
+    height: 130px;
+    background-color: white;
+    top:1100px;
+    right:610px;
+    font-family: sans;
+    padding-top: 10px;
+    padding-right: 10px;
+    font-weight: bold;
+    font-size: 14px;
+
 }
+
+section form{
+    position: absolute;
+    top:1180px;
+    right: 625px;
+}
+section form input{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: solid grey 1px;
+    font-family: sans;
+    }
+section form input:hover{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: solid orangered 1px;
+}
+
+
 /**************************************************\section2**************************************************/
 
 
