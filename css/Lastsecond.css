@@ -513,6 +513,7 @@ article .downbox02 a{
 .album01{
     width: 132px;
     height: 130px;
+
 }
 .album02{
     width: 270px;
@@ -522,7 +523,14 @@ article .downbox02 a{
     width: 400px;
     height:410px;
 }
+section .album01:hover {
 
+-webkit-filter: brightness(50%);
+}
+
+.fade-in{
+    -moz-animation: linear;
+}
 /**************************************************\section2**************************************************/
 
 
