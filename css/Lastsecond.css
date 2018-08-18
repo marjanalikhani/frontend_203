@@ -567,6 +567,84 @@ section form input:hover{
 
 
 /**************************************************\section2**************************************************/
+/**************************************************section3**************************************************/
+ .naghd00{
+    background:#f0f0f0;
+    padding-bottom: 500px;
+     margin-top: 50px;
+     padding-top: 50px;
+}
+.naghd01{
+    width: 100%;
+    height: 0.5px;
+    background-color: black;
+
+}
+
+.naghd02{
+    width: 200px;
+    padding-top:20px ;
+    padding-bottom: 20px;
+    background-color: #f0f0f0;
+    text-align: center;
+    margin: auto;
+    margin-top:-30px;
+    color: orangered;
+    font-size: 20px;
+    font-family: sans;
+
+}
+
+.naghd03{
+
+    /*border:solid 1px black;*/
+    /*border-left: none;*/
+    background: white;
 
 
+}
 
+.naghd04{
+    padding-top:40px;
+    padding-bottom: 40px;
+    font-family: sans;
+        color: black;
+}
+
+.naghd05{
+    border-bottom: solid 1px grey;
+}
+.naghd06{
+
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    border: 1px solid grey;
+    margin-right: -16px;
+    border: none;
+}
+.mr-2{
+    margin-right: 10px;
+    margin-left: 20px;
+}
+
+.naghd07{
+    border:solid 1px black;
+    border: none;
+    background-color: white;
+    -webkit-box-shadow: -26px 0px 109px -33px rgba(0,0,0,0.75);
+    -moz-box-shadow: -26px 0px 109px -33px rgba(0,0,0,0.75);
+    box-shadow: -26px 0px 109px -33px rgba(0,0,0,0.75);
+
+}
+section .naghd04 a{
+
+    color: black;
+    
+}
+section .naghd04 a:hover{
+    text-decoration: none;
+    color: rgb(233,74,53);
+  cursor: grab;
+}
+/******f********************************************\section3**************************************************/
