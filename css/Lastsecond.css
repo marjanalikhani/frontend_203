@@ -9,9 +9,9 @@
     font-style: normal;
 }
 @font-face {
-    font-family: 'byekant';
-    src: url('../fonts/BYekan.woff') format('woff2'),
-    url('../fonts/BYekan.eot') format('eot');
+    font-family: 'BYekan';
+    src: url('../fonts/BYekan/3.woff') format('woff2'),
+    url('../fonts/BYekan/1.eot') format('eot');
 }
 @media (min-width: 768px) {
     .container{
@@ -605,8 +605,8 @@ section form input:hover{
 }
 
 .naghd04{
-    padding-top:40px;
-    padding-bottom: 40px;
+    padding-top:7px;
+    padding-bottom: 7px;
     font-family: sans;
         color: black;
 }
@@ -645,6 +645,150 @@ section .naghd04 a{
 section .naghd04 a:hover{
     text-decoration: none;
     color: rgb(233,74,53);
-  cursor: grab;
+    cursor: pointer;
+}
+section a.naghd08 p{
+    color: darkgray;
+    font-size: 12px;
+    line-height: 30px;
+}
+section .naghd04 a:hover{
+
+}
+
+section .naghd04 p img{
+
+  width: 30px;
+  height: 30px;
+    border-radius: 50%;
+
+}
+section li  p {
+   font-size: 10px;
+}
+section li .hotelscore00{
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background-color:transparent ;
+    float: left;
+    border:2px solid rgba(233,74,53,0.8);
+top: 50px;
+    position: relative;
+
+}
+section li .hotelscore01{
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background-color:rgba(233,74,53,0.8) ;
+    position: absolute;
+    left: 2px;
+    top: 2px;
+    border: none;
+
+
+}
+section li .score{
+    width: 37px;
+    height: 27px;
+    background-color:rgba(233,74,53,0.8) ;
+    position: absolute;
+    left: 33px;
+    top: 43px;
+    border-radius: 10px 10px 10px 0px;
+    -moz-border-radius: 10px 10px 10px 0px;
+    -webkit-border-radius: 10px 10px 10px 0px;
+    border: 0px solid #000000;
+    font-family: BYekan;
+    text-align: center;
+    color: white;
+       font-size: 14px;
+
+}
+section li .score02{
+    width: 37px;
+    height: 27px;
+    background-color:rgba(233,74,53,0.8) ;
+    position: absolute;
+    left: 33px;
+    top: 158px;
+    border-radius: 10px 10px 10px 0px;
+    -moz-border-radius: 10px 10px 10px 0px;
+    -webkit-border-radius: 10px 10px 10px 0px;
+    border: 0px solid #000000;
+    font-family: BYekan;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+
+}
+section li .score03{
+    width: 37px;
+    height: 27px;
+    background-color:rgba(233,74,53,0.8) ;
+    position: absolute;
+    left: 33px;
+    top: 273px;
+    border-radius: 10px 10px 10px 0px;
+    -moz-border-radius: 10px 10px 10px 0px;
+    -webkit-border-radius: 10px 10px 10px 0px;
+    border: 0px solid #000000;
+    font-family: BYekan;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+
+}
+section li .score04{
+    width: 37px;
+    height: 27px;
+    background-color:rgba(233,74,53,0.8) ;
+    position: absolute;
+    left: 33px;
+    top: 43px;
+    border-radius: 10px 10px 10px 0px;
+    -moz-border-radius: 10px 10px 10px 0px;
+    -webkit-border-radius: 10px 10px 10px 0px;
+    border: 0px solid #000000;
+    font-family: BYekan;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+
+}
+section li .score05{
+    width: 37px;
+    height: 27px;
+    background-color:rgba(233,74,53,0.8) ;
+    position: absolute;
+    left: 33px;
+    top: 159px;
+    border-radius: 10px 10px 10px 0px;
+    -moz-border-radius: 10px 10px 10px 0px;
+    -webkit-border-radius: 10px 10px 10px 0px;
+    border: 0px solid #000000;
+    font-family: BYekan;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+
+}
+section li .score06{
+    width: 37px;
+    height: 27px;
+    background-color:rgba(233,74,53,0.8) ;
+    position: absolute;
+    left: 33px;
+    top: 273px;
+    border-radius: 10px 10px 10px 0px;
+    -moz-border-radius: 10px 10px 10px 0px;
+    -webkit-border-radius: 10px 10px 10px 0px;
+    border: 0px solid #000000;
+    font-family: BYekan;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+
 }
 /******f********************************************\section3**************************************************/
