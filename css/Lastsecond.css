@@ -622,6 +622,11 @@ section form input:hover{
     border: 1px solid grey;
     margin-right: -16px;
     border: none;
+
+
+}
+section li .naghd03 img{
+    /*-webkit-filter: brightness(70%);*/
 }
 .mr-2{
     margin-right: 10px;
@@ -662,6 +667,7 @@ section .naghd04 p img{
   height: 30px;
     border-radius: 50%;
 
+
 }
 section li  p {
    font-size: 10px;
@@ -673,7 +679,7 @@ section li .hotelscore00{
     background-color:transparent ;
     float: left;
     border:2px solid rgba(233,74,53,0.8);
-top: 50px;
+    top: 50px;
     position: relative;
 
 }
@@ -790,5 +796,32 @@ section li .score06{
     color: white;
     font-size: 14px;
 
+}
+section .moshahede{
+     width: 100px;
+     height: 30px;
+     background-color:#2991cc ;
+     position: absolute;
+     top:195px;
+     left: 75px;
+     font-family: sans;
+     text-align: center;
+     padding-top: 5px;
+     color: white;
+ }
+
+section .moshahede02{
+    width: 120px;
+    height: 30px;
+    background-color:transparent ;
+    position: absolute;
+    top:147px;
+    left: 64px;
+    font-family: sans;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
 }
 /******f********************************************\section3**************************************************/
