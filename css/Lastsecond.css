@@ -570,7 +570,7 @@ section form input:hover{
 /**************************************************section3**************************************************/
  .naghd00{
     background:#f0f0f0;
-    padding-bottom: 500px;
+    padding-bottom: 50px;
      margin-top: 50px;
      padding-top: 50px;
 }
@@ -824,4 +824,275 @@ section .moshahede02{
     font-size: 22px;
     font-weight: bold;
 }
-/******f********************************************\section3**************************************************/
+
+/****************************************************************************************************/
+
+
+
+
+
+.naghd-00{
+    background:#f0f0f0;
+    padding-bottom: 100px;
+    margin-top: 50px;
+    padding-top:0px;
+}
+.naghd-01{
+    width: 100%;
+    height: 0.5px;
+    background-color: black;
+
+}
+
+.naghd-02{
+    width: 200px;
+    padding-top:20px ;
+    padding-bottom: 20px;
+    background-color: #f0f0f0;
+    text-align: center;
+    margin: auto;
+    margin-top:-30px;
+    color: orangered;
+    font-size: 20px;
+    font-family: sans;
+
+}
+
+.naghd-03{
+
+    /*border:solid 1px black;*/
+    /*border-left: none;*/
+    background: white;
+
+
+}
+
+.naghd-04{
+    padding-top:7px;
+    padding-bottom: 7px;
+    font-family: sans;
+    color: black;
+}
+
+.naghd-05{
+    border-bottom: solid 1px grey;
+}
+.naghd-06{
+
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    border: 1px solid grey;
+    margin-right: -16px;
+    border: none;
+
+
+}
+section li .naghd-03 img{
+    /*-webkit-filter: brightness(70%);*/
+}
+.mr-2{
+    margin-right: 10px;
+    margin-left: 20px;
+}
+
+.naghd-07{
+    border:solid 1px black;
+    border: none;
+    background-color: white;
+    -webkit-box-shadow: -26px 0px 109px -33px rgba(0,0,0,0.75);
+    -moz-box-shadow: -26px 0px 109px -33px rgba(0,0,0,0.75);
+    box-shadow: -26px 0px 109px -33px rgba(0,0,0,0.75);
+
+}
+section .naghd-04 a{
+
+    color: black;
+
+}
+section .naghd-04 a:hover{
+    text-decoration: none;
+    color: rgb(233,74,53);
+    cursor: pointer;
+}
+section a.naghd-08 p{
+    color: darkgray;
+    font-size: 12px;
+    line-height: 30px;
+}
+section .naghd-04 a:hover{
+
+}
+
+section .naghd-04 p img{
+
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+
+
+}
+section li  p {
+    font-size: 10px;
+}
+section li .hotelscore-00{
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background-color:transparent ;
+    float: left;
+    border:2px solid rgba(233,74,53,0.8);
+    top: 50px;
+    position: relative;
+
+}
+section li .hotelscore-01{
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background-color:rgba(233,74,53,0.8) ;
+    position: absolute;
+    left: 2px;
+    top: 2px;
+    border: none;
+
+
+}
+section li .score{
+    width: 37px;
+    height: 27px;
+    background-color:rgba(233,74,53,0.8) ;
+    position: absolute;
+    left: 33px;
+    top: 43px;
+    border-radius: 10px 10px 10px 0px;
+    -moz-border-radius: 10px 10px 10px 0px;
+    -webkit-border-radius: 10px 10px 10px 0px;
+    border: 0px solid #000000;
+    font-family: BYekan;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+
+}
+section li .score-02{
+    width: 37px;
+    height: 27px;
+    background-color:rgba(233,74,53,0.8) ;
+    position: absolute;
+    left: 33px;
+    top: 158px;
+    border-radius: 10px 10px 10px 0px;
+    -moz-border-radius: 10px 10px 10px 0px;
+    -webkit-border-radius: 10px 10px 10px 0px;
+    border: 0px solid #000000;
+    font-family: BYekan;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+
+}
+section li .score-03{
+    width: 37px;
+    height: 27px;
+    background-color:rgba(233,74,53,0.8) ;
+    position: absolute;
+    left: 33px;
+    top: 273px;
+    border-radius: 10px 10px 10px 0px;
+    -moz-border-radius: 10px 10px 10px 0px;
+    -webkit-border-radius: 10px 10px 10px 0px;
+    border: 0px solid #000000;
+    font-family: BYekan;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+
+}
+section li .score-04{
+    width: 37px;
+    height: 27px;
+    background-color:rgba(233,74,53,0.8) ;
+    position: absolute;
+    left: 33px;
+    top: 43px;
+    border-radius: 10px 10px 10px 0px;
+    -moz-border-radius: 10px 10px 10px 0px;
+    -webkit-border-radius: 10px 10px 10px 0px;
+    border: 0px solid #000000;
+    font-family: BYekan;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+
+}
+section li .score-05{
+    width: 37px;
+    height: 27px;
+    background-color:rgba(233,74,53,0.8) ;
+    position: absolute;
+    left: 33px;
+    top: 159px;
+    border-radius: 10px 10px 10px 0px;
+    -moz-border-radius: 10px 10px 10px 0px;
+    -webkit-border-radius: 10px 10px 10px 0px;
+    border: 0px solid #000000;
+    font-family: BYekan;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+
+}
+section li .score-06{
+    width: 37px;
+    height: 27px;
+    background-color:rgba(233,74,53,0.8) ;
+    position: absolute;
+    left: 33px;
+    top: 273px;
+    border-radius: 10px 10px 10px 0px;
+    -moz-border-radius: 10px 10px 10px 0px;
+    -webkit-border-radius: 10px 10px 10px 0px;
+    border: 0px solid #000000;
+    font-family: BYekan;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+
+}
+section .moshahede-{
+    width: 100px;
+    height: 30px;
+    background-color:#2991cc ;
+    position: absolute;
+    top:195px;
+    left: 75px;
+    font-family: sans;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+}
+
+section .moshahede-02{
+    width: 120px;
+    height: 30px;
+    background-color:transparent ;
+    position: absolute;
+    top:147px;
+    left: 64px;
+    font-family: sans;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+
+section .naghd02 a{
+    color: rgba(233,74,53,0.8);
+    text-decoration: none;
+}
+
+
+/**************************************************\section3**************************************************/
