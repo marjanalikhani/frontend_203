@@ -1169,6 +1169,8 @@ section .khabar02{
 }
 section .khabar03{
     width: 100%;
+    top:2px;
+    
 }
  section .khabar04{
      width: 95%;
@@ -1185,7 +1187,7 @@ section .khabar03{
      -webkit-box-shadow: -1px -1px 31px 3px rgba(0,0,0,0.75);
      -moz-box-shadow: -1px -1px 31px 3px rgba(0,0,0,0.75);
      box-shadow: -1px -1px 31px 3px rgba(0,0,0,0.75);
-     Copy Text
+
 }
  section .khabar04 p{
      font-size: 14px;
@@ -1196,4 +1198,10 @@ section .khabar03{
 }
 section .khabar05 span{
    padding-right: 20px;
+
+
+}
+section .khabar05 p{
+    /*border-top: solid 1px black;*/
+    line-height: 20px;
 }
