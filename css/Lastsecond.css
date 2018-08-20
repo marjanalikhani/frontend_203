@@ -1094,5 +1094,106 @@ section .naghd02 a{
     text-decoration: none;
 }
 
+.arrowdown{
+    width: 32px;
+    height: 32px;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    top:280px;
+    left:550px;
 
+}
+
+.arrowdown i{
+
+    position: absolute;
+    top:5px;
+    left:7px;
+    color: rgba(233,74,53,0.8);
+
+}
+.arrowdown i:hover{
+    color: rgb(233,74,53) ;
+}
+
+.arrowdown02{
+    width: 32px;
+    height: 32px;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    top:280px;
+    left:600px;
+
+}
+
+
+.arrowdown02 i{
+
+    position: absolute;
+    top:3px;
+    left:7px;
+    color: rgba(233,74,53,0.8);
+
+}
+.arrowdown02 i:hover{
+    color: rgb(233,74,53) ;
+}
 /**************************************************\section3**************************************************/
+/**************************************************section4**************************************************/
+section .khabar00{
+    background-color: white;
+
+}
+section .khabar01{
+    width: 100%;
+    background-color: white;
+    border-bottom: black solid 1px;
+    padding-top: 100px;
+
+}
+
+section .khabar02{
+    width: 150px;
+    padding-top:20px ;
+    padding-bottom: 20px;
+    background-color: white;
+    text-align: center;
+    margin: auto;
+    margin-top: -30px;
+    color: orangered;
+    font-size: 20px;
+    font-family: sans;
+
+}
+section .khabar03{
+    width: 100%;
+}
+ section .khabar04{
+     width: 95%;
+     height:380px;
+     background-color: transparent;
+     position: absolute;
+     top:300px;
+     font-family: sans;
+     font-size: 18px;
+     color: white;
+     top:1px;
+     background: linear-gradient(180deg,rgba(0,0,0,0) 0%, rgba(255, 255, 255,0) 0%,#080808 95%);
+     padding-top:300px;
+     -webkit-box-shadow: -1px -1px 31px 3px rgba(0,0,0,0.75);
+     -moz-box-shadow: -1px -1px 31px 3px rgba(0,0,0,0.75);
+     box-shadow: -1px -1px 31px 3px rgba(0,0,0,0.75);
+     Copy Text
+}
+ section .khabar04 p{
+     font-size: 14px;
+     line-height: 40px;
+ }
+    section .khabar04 span{
+    font-family: BYekan;
+}
+section .khabar05 span{
+   padding-right: 20px;
+}
