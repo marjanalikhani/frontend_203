@@ -1197,6 +1197,7 @@ section .khabar03{
  }
     section  .khabar04 span{
     font-family: BYekan;
+        font-size: 12px;
 }
 section .khabar05 {
 float: right;
@@ -1246,3 +1247,224 @@ section  .safar02{
     font-family: sans;
 
 }
+
+
+
+
+/**************************************************article section5**************************************************/
+.toorboxnew{
+    margin-right:35px;
+
+}
+
+.downboxnew{
+    position: absolute;
+    top:170px;
+    font-family: sans;
+    font-size: 13px;
+    background: white;
+    padding-bottom: 30px;
+    width: 100%;
+
+}
+.downbox01new{
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    font-family: sans;
+    color: white;
+    font-size: 10px;
+    margin-left: 0px;
+}
+.downbox02new{
+    position: absolute;
+    top:202px;
+    font-family: sans;
+    font-size: 13px;
+    background: white;
+    padding-bottom: 1px;
+    width: 100%;
+    text-align: center;
+    line-height: 70px;
+    -webkit-box-shadow: 0px 10px 36px -6px rgba(0,0,0,0.15);
+    -moz-box-shadow: 0px 10px 36px -6px rgba(0,0,0,0.15);
+    box-shadow: 0px 10px 36px -6px rgba(0,0,0,0.15);
+}
+
+
+
+article .downbox01new .tooltipnew {
+    position: absolute;
+    display: inline-block;
+    font-family: sans;
+    opacity: 1;
+    font-size: 14px;
+    right: -7px;
+
+
+}
+
+.tooltipnew .tooltiptextnew {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+    opacity:0;
+    transition: opacity 0.3s;
+    font-family: sans;
+}
+
+.tooltipnew .tooltiptextnew::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+
+.tooltipnew:hover .tooltiptextnew {
+    visibility: visible;
+    opacity: 1;
+}
+
+
+
+
+
+
+article .downbox01new .tooltip01new {
+    position: absolute;
+    display: inline-block;
+    font-family: sans;
+    opacity: 1;
+    left:-20px;
+    font-size: 14px;
+    z-index: 2;
+
+
+}
+
+.tooltip01new .tooltiptext01new {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+    opacity:0;
+    transition: opacity 0.3s;
+    font-family: sans;
+
+}
+
+.tooltip01new .tooltiptext01new::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+
+}
+
+.tooltip01new:hover .tooltiptext01new {
+    visibility: visible;
+    opacity: 1;
+}
+article .circlenew01{
+    border:solid 1px black;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    background: white;
+    color:black ;
+    position: absolute;
+    left: 45px;
+    top:138px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    border-color: transparent;
+    font-size: 14px;
+    line-height: 12px;
+    -webkit-box-shadow: 0px 0px 7px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 7px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 7px 0px rgba(0,0,0,0.75);
+    z-index: 2;
+
+background:url("../images/safar01.jpeg" );
+    background-position: center;
+    background-size: cover;
+
+}
+.downbox02new{
+    position: absolute;
+    top:170px;
+    font-family: sans;
+    font-size: 13px;
+    background: white;
+    padding-bottom:25px;
+    width: 100%;
+
+    text-align: center;
+    line-height: 70px;
+    -webkit-box-shadow: 0px 10px 36px -6px rgba(0,0,0,0.15);
+    -moz-box-shadow: 0px 10px 36px -6px rgba(0,0,0,0.15);
+    box-shadow: 0px 10px 36px -6px rgba(0,0,0,0.15);
+}
+.border01new{
+    border-bottom: 1px solid black;
+
+}
+article .gheimatnew{
+    font-weight: bold;
+    color: limegreen;
+    margin-left: 5px;
+}
+article .frame01{
+   border-bottom: 1px solid gainsboro;
+   border-top: 1px solid gainsboro;
+   border-left: 1px solid gainsboro;
+   border-right: 1px solid gainsboro;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+article .downbox02new a{
+    color: black;
+    text-decoration: none;
+}
+
+article .bekhanid{
+    width: 100px;
+    height: 30px;
+    background-color: rgba(233,74,53,0.8);
+    position: absolute;
+    top:170px;
+    left: 50px;
+    font-family: sans;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+}
+
+/**************************************************\article2 section5**************************************************/
+
