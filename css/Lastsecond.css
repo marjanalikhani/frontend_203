@@ -1169,39 +1169,80 @@ section .khabar02{
 }
 section .khabar03{
     width: 100%;
-    top:2px;
+
     
 }
+
  section .khabar04{
-     width: 95%;
-     height:380px;
-     background-color: transparent;
+     width: 48%;
+     height:427px;
+     background-color: yellow;
      position: absolute;
-     top:300px;
+
      font-family: sans;
      font-size: 18px;
      color: white;
-     top:1px;
+     top:2371px;
      background: linear-gradient(180deg,rgba(0,0,0,0) 0%, rgba(255, 255, 255,0) 0%,#080808 95%);
-     padding-top:300px;
+     padding-top:350px;
+     padding-right: 30px;
      -webkit-box-shadow: -1px -1px 31px 3px rgba(0,0,0,0.75);
      -moz-box-shadow: -1px -1px 31px 3px rgba(0,0,0,0.75);
      box-shadow: -1px -1px 31px 3px rgba(0,0,0,0.75);
 
 }
- section .khabar04 p{
+ section  .khabar04 p{
      font-size: 14px;
      line-height: 40px;
  }
-    section .khabar04 span{
+    section  .khabar04 span{
     font-family: BYekan;
 }
-section .khabar05 span{
-   padding-right: 20px;
+section .khabar05 {
+float: right;
+    margin-right: 20px;
+    margin-bottom: 5px;
 
 
 }
-section .khabar05 p{
-    /*border-top: solid 1px black;*/
-    line-height: 20px;
+section .khabar06{
+
+    font-family: sans;
+    line-height: 44px;
+float: right;
+    height: 82px;
+    background-color:white;
+    margin-bottom: 5px;
+
+
+}
+
+
+/**************************************************\section4**************************************************/
+/**************************************************section5 safarname**************************************************/
+
+section.safar00{
+    background-color: white;
+
+}
+section .safar01{
+    width: 100%;
+    background-color: white;
+    border-bottom: black solid 1px;
+    padding-top: 500px;
+
+}
+
+section  .safar02{
+    width: 150px;
+    padding-top:20px ;
+    padding-bottom: 20px;
+    background-color: white;
+    text-align: center;
+    margin: auto;
+    margin-top: -33px;
+    color: orangered;
+    font-size: 20px;
+    font-family: sans;
+
 }
