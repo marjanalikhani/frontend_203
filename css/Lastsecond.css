@@ -1600,3 +1600,88 @@ footer .aside08{
     color: white;
     font-size: 10px;
 }
+
+footer .upapp01{
+    width: 100%;
+    background-color: white;
+    border-bottom: black solid 1px;
+    padding-top:100px;
+}
+
+footer .upapp02{
+    width: 150px;
+    padding-top:20px ;
+    padding-bottom: 20px;
+    background-color: white;
+    text-align: center;
+    margin: auto;
+    margin-top: -30px;
+    color: orangered;
+    font-size: 20px;
+    font-family: sans;
+
+}
+footer .app01{
+width: 150px;
+height: 50px;
+    padding-top: 7px;
+background-color: white;
+font-family: sans;
+    font-size: 14px;
+    border: solid 1px lightgrey;
+    color:red;
+    -webkit-box-shadow: 0px 10px 36px -6px rgba(0,0,0,0.15);
+    -moz-box-shadow: 0px 10px 36px -6px rgba(0,0,0,0.15);
+    box-shadow: 0px 10px 36px -6px rgba(0,0,0,0.15);
+}
+
+footer .app02{
+    width: 150px;
+    height: 50px;
+    padding-top: 7px;
+    background-color: white;
+    font-family: sans;
+    font-size: 14px;
+    border: solid 1px lightgrey;
+    color:red;
+    -webkit-box-shadow: 0px 10px 36px -6px rgba(0,0,0,0.15);
+    -moz-box-shadow: 0px 10px 36px -6px rgba(0,0,0,0.15);
+    box-shadow: 0px 10px 36px -6px rgba(0,0,0,0.15);
+}
+
+footer .app03{
+    width: 150px;
+    height: 50px;
+    padding-top: 7px;
+    background-color: white;
+    font-family: sans;
+    font-size: 14px;
+    border: solid 1px lightgrey;
+    color:red;
+    -webkit-box-shadow: 0px 10px 36px -6px rgba(0,0,0,0.15);
+    -moz-box-shadow: 0px 10px 36px -6px rgba(0,0,0,0.15);
+    box-shadow: 0px 10px 36px -6px rgba(0,0,0,0.15);
+}
+
+
+
+footer .app04{
+    width: 150px;
+    height: 50px;
+    padding-top: 7px;
+    background-color: white;
+    font-family: sans;
+    font-size: 14px;
+    border: solid 1px lightgrey;
+    color:red;
+    -webkit-box-shadow: 0px 10px 36px -6px rgba(0,0,0,0.15);
+    -moz-box-shadow: 0px 10px 36px -6px rgba(0,0,0,0.15);
+    box-shadow: 0px 10px 36px -6px rgba(0,0,0,0.15);
+}
+
+
+
+
+
+
+
