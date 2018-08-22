@@ -1679,9 +1679,23 @@ footer .app04{
     box-shadow: 0px 10px 36px -6px rgba(0,0,0,0.15);
 }
 
+footer  a:hover{
+    text-decoration: none;
+    -webkit-box-shadow: 0px 40px 66px -6px rgba(0,0,0,0.15);
+    -moz-box-shadow: 0px 60px 66px -6px rgba(0,0,0,0.15);
+    box-shadow: 0px 40px 66px -6px rgba(0,0,0,0.15);
+}
 
 
 
 
 
 
+footer .down01 {
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 90vh;
+
+}
