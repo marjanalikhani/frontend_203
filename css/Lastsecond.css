@@ -1209,7 +1209,7 @@ float: right;
 section .khabar06{
 
     font-family: sans;
-    line-height: 44px;
+    line-height: 25px;
 float: right;
     height: 82px;
     background-color:white;
@@ -1467,4 +1467,136 @@ article .bekhanid{
 }
 
 /**************************************************\article2 section5**************************************************/
+/************************************************** section6**************************************************/
+footer .video01{
+    width: 100%;
+    margin-top: 300px;
+    background-color: #676f7a;
+}
 
+/*footer .video02{*/
+    /*float:right ;*/
+    /*width: 400px;*/
+    /*background-color:#46505d ;*/
+
+/*}*/
+
+footer .asidevideo01{
+   float: right;
+    background-color: #3f4a58;
+    padding-left:150px;
+    margin-top: 20px;
+   padding-right: -2px;
+
+}
+footer .asidevideo02{
+    width: 100%;
+    float: right;
+    margin-right:100px;
+    position: absolute;
+    margin-top: 150px;
+}
+
+footer .asidevideo03{
+    width: 100%;
+    float: right;
+    margin-right:100px;
+    position: absolute;
+    margin-top: 150px;
+}
+footer .aside{
+
+    background-color: #419641;
+    padding-bottom: 600px;
+    padding-left:340px ;
+    padding-right: 15px;
+    margin-top: 40px;
+
+
+
+
+}
+
+footer .ex3 {
+    background-color: #46505d;
+    width: 150px;
+    height: 80px;
+    overflow: auto;
+    float: right;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    margin-bottom: 20px;
+
+}
+footer .row{
+    margin-right: -150px;
+}
+footer .aside01{
+    position: absolute;
+    top:90px;
+    right: 200px;
+    font-family: sans;
+    color: white;
+    font-size: 12px;
+}
+footer .aside02{
+    position: absolute;
+    top:140px;
+    right: 200px;
+    font-family: sans;
+    color: white;
+    font-size: 10px;
+}
+
+footer .aside03{
+    position: absolute;
+    top:230px;
+    right: 200px;
+    font-family: sans;
+    color: white;
+    font-size: 12px;
+}
+footer .aside04{
+    position: absolute;
+    top:283px;
+    right: 200px;
+    font-family: sans;
+    color: white;
+    font-size: 10px;
+}
+
+
+footer .aside05{
+    position: absolute;
+    top:360px;
+    right: 200px;
+    font-family: sans;
+    color: white;
+    font-size: 12px;
+}
+footer .aside06{
+    position: absolute;
+    top:400px;
+    right: 200px;
+    font-family: sans;
+    color: white;
+    font-size: 10px;
+}
+
+
+
+footer .aside07{
+    position: absolute;
+    top:500px;
+    right: 200px;
+    font-family: sans;
+    color: white;
+    font-size: 12px;
+}
+footer .aside08{
+    position: absolute;
+    top:560px;
+    right: 200px;
+    font-family: sans;
+    color: white;
+    font-size: 10px;
+}
