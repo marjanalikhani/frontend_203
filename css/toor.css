@@ -3,7 +3,7 @@
     background-color: rgba(233,74,53,0.8);
     width: 100%;
     padding-top:7px;
-    padding-bottom:150px;
+    padding-bottom:100px;
     font-family: sans;
     color: white;
     font-size: 1em;
@@ -172,7 +172,7 @@ section .location01 a:hover{
     margin-top: 19px;
     font-family: BYekan;
     text-align: center;
-    font-size: 17px;
+    font-size: 15px;
     text-align: center;
     -webkit-box-shadow: 0px 15px 40px -8px rgba(0,0,0,0.75);
     -moz-box-shadow: 0px 15px 40px -8px rgba(0,0,0,0.75);
@@ -190,7 +190,7 @@ section .location01 a:hover{
     margin-top: 19px;
     font-family: BYekan;
     text-align: center;
-    font-size: 17px;
+    font-size: 15px;
     text-align: center;
     -webkit-box-shadow: 0px 15px 40px -8px rgba(0,0,0,0.75);
     -moz-box-shadow: 0px 15px 40px -8px rgba(0,0,0,0.75);
@@ -208,7 +208,7 @@ section .location01 a:hover{
     margin-top: 19px;
     font-family: BYekan;
     text-align: center;
-    font-size: 17px;
+    font-size: 15px;
     text-align: center;
     -webkit-box-shadow: 0px 15px 40px -8px rgba(0,0,0,0.75);
     -moz-box-shadow: 0px 15px 40px -8px rgba(0,0,0,0.75);
@@ -217,4 +217,33 @@ section .location01 a:hover{
 }
 .avisa{
     float: left;
+}
+/**************************************************\section01**************************************************/
+/**************************************************article**************************************************/
+.container{
+    margin-top: 150px;
+
+}
+article .pishrafte01{
+     font-family: BYekan;
+     text-align: center;
+     width: 300px;
+     padding-top: 10px;
+     margin-right: -150px;
+     background-color: #efebe9;
+     padding-bottom: 60px;
+     border-radius: 10px 10px 0px 0px;
+     -moz-border-radius: 10px 10px 0px 0px;
+     -webkit-border-radius: 10px 10px 0px 0px;
+     border: 0px solid #000000;
+ }
+article .pishrfte02{
+    font-family: sans;
+    width: 300px;
+    margin-right: -150px;
+    background-color: beige;
+    padding-bottom:10px;
+    padding-top:10px;
+    border-bottom: 1px solid darkgrey;
+
 }
