@@ -312,23 +312,208 @@ article .pishrfte02{
     padding-right: 10px;
     background-color: white;
     position: absolute;
-
     top:70px;
     color:black;
     margin-top: 19px;
     margin-right: -120px;
     font-family: sans;
-
     font-size: 15px;
-
     -webkit-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
     -moz-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
     box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
-
     border-radius: 2px 2px 2px 2px;
     -moz-border-radius: 2px 2px 2px 2px;
     -webkit-border-radius: 2px 2px 2px 2px;
     border: 0px solid #000000;
 
 
+}
+.jadval02{
+    width: 750px;
+    padding-top:20px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    background-color: white;
+    position: absolute;
+    top:70px;
+    color:black;
+    margin-top:110px;
+    margin-right: -120px;
+    font-family: sans;
+    font-size: 15px;
+    -webkit-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    border-radius: 2px 2px 2px 2px;
+    -moz-border-radius: 2px 2px 2px 2px;
+    -webkit-border-radius: 2px 2px 2px 2px;
+    border: 0px solid #000000;
+}
+.jadval03{
+    width: 750px;
+    padding-top:20px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    background-color: white;
+    position: absolute;
+    top:70px;
+    color:black;
+    margin-top:205px;
+    margin-right: -120px;
+    font-family: sans;
+    font-size: 15px;
+    -webkit-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    border-radius: 2px 2px 2px 2px;
+    -moz-border-radius: 2px 2px 2px 2px;
+    -webkit-border-radius: 2px 2px 2px 2px;
+    border: 0px solid #000000;
+}
+.jadval04{
+    width: 750px;
+    padding-top:20px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    background-color: white;
+    position: absolute;
+    top:70px;
+    color:black;
+    margin-top:305px;
+    margin-right: -120px;
+    font-family: sans;
+    font-size: 15px;
+    -webkit-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    border-radius: 2px 2px 2px 2px;
+    -moz-border-radius: 2px 2px 2px 2px;
+    -webkit-border-radius: 2px 2px 2px 2px;
+    border: 0px solid #000000;
+}
+.jadval05{
+    width: 750px;
+    padding-top:20px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    background-color: white;
+    position: absolute;
+    top:70px;
+    color:black;
+    margin-top:405px;
+    margin-right: -120px;
+    font-family: sans;
+    font-size: 15px;
+    -webkit-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    border-radius: 2px 2px 2px 2px;
+    -moz-border-radius: 2px 2px 2px 2px;
+    -webkit-border-radius: 2px 2px 2px 2px;
+    border: 0px solid #000000;
+}
+.jadval06{
+    width: 750px;
+    padding-top:20px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    background-color: white;
+    position: absolute;
+    top:70px;
+    color:black;
+    margin-top:505px;
+    margin-right: -120px;
+    font-family: sans;
+    font-size: 15px;
+    -webkit-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    border-radius: 2px 2px 2px 2px;
+    -moz-border-radius: 2px 2px 2px 2px;
+    -webkit-border-radius: 2px 2px 2px 2px;
+    border: 0px solid #000000;
+}
+.jadval07{
+    width: 750px;
+    padding-top:20px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    background-color: white;
+    position: absolute;
+    top:70px;
+    color:black;
+    margin-top:605px;
+    margin-right: -120px;
+    font-family: sans;
+    font-size: 15px;
+    -webkit-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    border-radius: 2px 2px 2px 2px;
+    -moz-border-radius: 2px 2px 2px 2px;
+    -webkit-border-radius: 2px 2px 2px 2px;
+    border: 0px solid #000000;
+}
+.jadval08{
+    width: 750px;
+    padding-top:20px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    background-color: white;
+    position: absolute;
+    top:70px;
+    color:black;
+    margin-top:705px;
+    margin-right: -120px;
+    font-family: sans;
+    font-size: 15px;
+    -webkit-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    border-radius: 2px 2px 2px 2px;
+    -moz-border-radius: 2px 2px 2px 2px;
+    -webkit-border-radius: 2px 2px 2px 2px;
+    border: 0px solid #000000;
+}
+.jadval09{
+    width: 750px;
+    padding-top:20px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    background-color: white;
+    position: absolute;
+    top:70px;
+    color:black;
+    margin-top:805px;
+    margin-right: -120px;
+    font-family: sans;
+    font-size: 15px;
+    -webkit-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    border-radius: 2px 2px 2px 2px;
+    -moz-border-radius: 2px 2px 2px 2px;
+    -webkit-border-radius: 2px 2px 2px 2px;
+    border: 0px solid #000000;
+}
+.jadval10{
+    width: 750px;
+    padding-top:20px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    background-color: white;
+    position: absolute;
+    top:70px;
+    color:black;
+    margin-top:905px;
+    margin-right: -120px;
+    font-family: sans;
+    font-size: 15px;
+    -webkit-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    border-radius: 2px 2px 2px 2px;
+    -moz-border-radius: 2px 2px 2px 2px;
+    -webkit-border-radius: 2px 2px 2px 2px;
+    border: 0px solid #000000;
 }
