@@ -20,3 +20,162 @@
     -webkit-border-radius: 2px 2px 2px 2px;
     border: 0px solid #000000;
 }
+.hotel01{
+    width: 150px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    background-color: white;
+    position: absolute;
+    right:83px;
+    color:black;
+    margin-top: 40px;
+    font-family: BYekan;
+    text-align: center;
+    font-size: 15px;
+    text-align: center;
+    -webkit-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+
+    border-radius: 2px 2px 2px 2px;
+    -moz-border-radius: 2px 2px 2px 2px;
+    -webkit-border-radius: 2px 2px 2px 2px;
+    border: 0px solid #000000;
+
+}
+.hotel02{
+    width: 150px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    background-color: white;
+    position: absolute;
+    right:250px;
+    color:black;
+    margin-top: 40px;
+    font-family: BYekan;
+    text-align: center;
+    font-size: 15px;
+    text-align: center;
+    -webkit-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+
+    border-radius: 2px 2px 2px 2px;
+    -moz-border-radius: 2px 2px 2px 2px;
+    -webkit-border-radius: 2px 2px 2px 2px;
+    border: 0px solid #000000;
+
+}
+.hotel03{
+    width: 150px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    background-color: white;
+    position: absolute;
+    right:415px;
+    color:black;
+    margin-top:40px;
+    font-family: BYekan;
+    text-align: center;
+    font-size: 15px;
+    text-align: center;
+    -webkit-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+
+    border-radius: 2px 2px 2px 2px;
+    -moz-border-radius: 2px 2px 2px 2px;
+    -webkit-border-radius: 2px 2px 2px 2px;
+    border: 0px solid #000000;
+}
+.hotel04{
+    width: 150px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    background-color: white;
+    position: absolute;
+    right:575px;
+    color:black;
+    margin-top: 40px;
+    font-family: BYekan;
+    text-align: center;
+    font-size: 15px;
+    text-align: center;
+    -webkit-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+
+    border-radius: 2px 2px 2px 2px;
+    -moz-border-radius: 2px 2px 2px 2px;
+    -webkit-border-radius: 2px 2px 2px 2px;
+    border: 0px solid #000000;
+
+}
+.hotel05{
+    width: 150px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    background-color: white;
+    position: absolute;
+    right:735px;
+    color:black;
+    margin-top: 40px;
+    font-family: BYekan;
+    text-align: center;
+    font-size: 15px;
+    text-align: center;
+    -webkit-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+
+    border-radius: 2px 2px 2px 2px;
+    -moz-border-radius: 2px 2px 2px 2px;
+    -webkit-border-radius: 2px 2px 2px 2px;
+    border: 0px solid #000000;
+
+}
+.hotel06{
+    width: 150px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    background-color: white;
+    position: absolute;
+    right:895px;
+    color:black;
+    margin-top: 40px;
+    font-family: BYekan;
+    text-align: center;
+    font-size: 15px;
+    text-align: center;
+    -webkit-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+
+    border-radius: 2px 2px 2px 2px;
+    -moz-border-radius: 2px 2px 2px 2px;
+    -webkit-border-radius: 2px 2px 2px 2px;
+    border: 0px solid #000000;
+}
+.hotel07{
+    width: 150px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    background-color: white;
+    position: absolute;
+    right:5px;
+    color:rgba(233,74,53,0.8);
+    margin-top: 55px;
+    font-family: BYekan;
+    text-align: center;
+    font-size: 15px;
+    text-align: center;
+    border:solid 1px rgba(233,74,53,1);
+    -webkit-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+
+    border-radius: 2px 2px 2px 2px;
+    -moz-border-radius: 2px 2px 2px 2px;
+    -webkit-border-radius: 2px 2px 2px 2px;
+   
+}
