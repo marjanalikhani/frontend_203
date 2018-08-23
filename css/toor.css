@@ -174,9 +174,14 @@ section .location01 a:hover{
     text-align: center;
     font-size: 15px;
     text-align: center;
-    -webkit-box-shadow: 0px 15px 40px -8px rgba(0,0,0,0.75);
-    -moz-box-shadow: 0px 15px 40px -8px rgba(0,0,0,0.75);
-    box-shadow: 0px 15px 40px -8px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+
+    border-radius: 2px 2px 2px 2px;
+    -moz-border-radius: 2px 2px 2px 2px;
+    -webkit-border-radius: 2px 2px 2px 2px;
+    border: 0px solid #000000;
 
 }
 .toor02{
@@ -192,9 +197,14 @@ section .location01 a:hover{
     text-align: center;
     font-size: 15px;
     text-align: center;
-    -webkit-box-shadow: 0px 15px 40px -8px rgba(0,0,0,0.75);
-    -moz-box-shadow: 0px 15px 40px -8px rgba(0,0,0,0.75);
-    box-shadow: 0px 15px 40px -8px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+
+    border-radius: 2px 2px 2px 2px;
+    -moz-border-radius: 2px 2px 2px 2px;
+    -webkit-border-radius: 2px 2px 2px 2px;
+    border: 0px solid #000000;
 
 }
 .toor03{
@@ -210,10 +220,14 @@ section .location01 a:hover{
     text-align: center;
     font-size: 15px;
     text-align: center;
-    -webkit-box-shadow: 0px 15px 40px -8px rgba(0,0,0,0.75);
-    -moz-box-shadow: 0px 15px 40px -8px rgba(0,0,0,0.75);
-    box-shadow: 0px 15px 40px -8px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
 
+    border-radius: 2px 2px 2px 2px;
+    -moz-border-radius: 2px 2px 2px 2px;
+    -webkit-border-radius: 2px 2px 2px 2px;
+    border: 0px solid #000000;
 }
 .avisa{
     float: left;
@@ -245,5 +259,76 @@ article .pishrfte02{
     padding-bottom:10px;
     padding-top:10px;
     border-bottom: 1px solid darkgrey;
+
+}
+.ghabl{
+    width: 100px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    background-color: rgba(233,74,53,0.8);
+    position: absolute;
+
+    color:white;
+    margin-top: 19px;
+    font-family: BYekan;
+    text-align: center;
+    font-size: 15px;
+    text-align: center;
+    -webkit-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+
+    border-radius: 2px 2px 2px 2px;
+    -moz-border-radius: 2px 2px 2px 2px;
+    -webkit-border-radius: 2px 2px 2px 2px;
+    border: 0px solid #000000;
+}
+.baad{
+    width: 100px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    background-color: rgba(233,74,53,0.8);
+    position: absolute;
+    right:120px;
+    color:white;
+    margin-top: 19px;
+    font-family: BYekan;
+    text-align: center;
+    font-size: 15px;
+    text-align: center;
+    -webkit-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+
+    border-radius: 2px 2px 2px 2px;
+    -moz-border-radius: 2px 2px 2px 2px;
+    -webkit-border-radius: 2px 2px 2px 2px;
+    border: 0px solid #000000;
+}
+.jadval01{
+    width: 750px;
+    padding-top:20px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    background-color: white;
+    position: absolute;
+
+    top:70px;
+    color:black;
+    margin-top: 19px;
+    margin-right: -120px;
+    font-family: sans;
+
+    font-size: 15px;
+
+    -webkit-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+
+    border-radius: 2px 2px 2px 2px;
+    -moz-border-radius: 2px 2px 2px 2px;
+    -webkit-border-radius: 2px 2px 2px 2px;
+    border: 0px solid #000000;
+
 
 }
