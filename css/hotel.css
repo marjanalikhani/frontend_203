@@ -1,0 +1,22 @@
+.naghdjadid{
+    width:200px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    background-color: rgba(233,74,53,0.8);
+    position: absolute;
+
+    color:white;
+    margin-top: 19px;
+    font-family: BYekan;
+    text-align: center;
+    font-size: 15px;
+    text-align: center;
+    -webkit-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+
+    border-radius: 2px 2px 2px 2px;
+    -moz-border-radius: 2px 2px 2px 2px;
+    -webkit-border-radius: 2px 2px 2px 2px;
+    border: 0px solid #000000;
+}
