@@ -141,3 +141,80 @@
     text-align: center;
 
 }
+/****************************************************************************************************/
+/**************************************************\section01**************************************************/
+section .location01{
+   margin-top:30px;
+}
+section .location01 a{
+    color: black;
+
+    font-family: sans;
+
+}
+section .location01 a:hover{
+    text-decoration: none;
+}
+.locationline{
+    width: 100%;
+    background-color: white;
+    border-bottom: grey solid 1px;
+    padding-top: 30px;
+}
+.toor01{
+    width: 130px;
+    padding-top:13px;
+    padding-bottom: 13px;
+    background-color: white;
+    position: absolute;
+    right:83px;
+    color:black;
+    margin-top: 19px;
+    font-family: BYekan;
+    text-align: center;
+    font-size: 17px;
+    text-align: center;
+    -webkit-box-shadow: 0px 15px 40px -8px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 15px 40px -8px rgba(0,0,0,0.75);
+    box-shadow: 0px 15px 40px -8px rgba(0,0,0,0.75);
+
+}
+.toor02{
+    width: 130px;
+    padding-top:13px;
+    padding-bottom: 13px;
+    background-color: white;
+    position: absolute;
+    right:224px;
+    color:black;
+    margin-top: 19px;
+    font-family: BYekan;
+    text-align: center;
+    font-size: 17px;
+    text-align: center;
+    -webkit-box-shadow: 0px 15px 40px -8px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 15px 40px -8px rgba(0,0,0,0.75);
+    box-shadow: 0px 15px 40px -8px rgba(0,0,0,0.75);
+
+}
+.toor03{
+    width: 130px;
+    padding-top:13px;
+    padding-bottom: 13px;
+    background-color: white;
+    position: absolute;
+    right:365px;
+    color:black;
+    margin-top: 19px;
+    font-family: BYekan;
+    text-align: center;
+    font-size: 17px;
+    text-align: center;
+    -webkit-box-shadow: 0px 15px 40px -8px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 15px 40px -8px rgba(0,0,0,0.75);
+    box-shadow: 0px 15px 40px -8px rgba(0,0,0,0.75);
+
+}
+.avisa{
+    float: left;
+}
