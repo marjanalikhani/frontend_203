@@ -519,7 +519,66 @@ article .pishrfte02{
 }
 
 
-article img{
-    width: 400px;
-    margin-right: 80px;
+/*article img{*/
+    /*width: 400px;*/
+    /*margin-right: 80px;*/
+/*}*/
+
+.jadval11{
+    width: 180px;
+    padding-top:20px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    background-color: white;
+    color:black;
+    margin-top:15px;
+    font-family: sans;
+    margin-right:-161px;
+
+    font-size: 15px;
+    -webkit-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);
+    border-radius: 2px 2px 2px 2px;
+    -moz-border-radius: 2px 2px 2px 2px;
+    -webkit-border-radius: 2px 2px 2px 2px;
+    border: 0px solid #000000;
+}
+.jadval12{
+    width: 180px;
+    height: 166px;
+     margin-top:-187px;
+    font-family: sans;
+    margin-right:31px;
+
+    font-size: 15px;
+    /*-webkit-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);*/
+    /*-moz-box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);*/
+    /*box-shadow: 1px 1px 14px 1px rgba(0,0,0,0.75);*/
+    /*border-radius: 2px 2px 2px 2px;*/
+    /*-moz-border-radius: 2px 2px 2px 2px;*/
+    /*-webkit-border-radius: 2px 2px 2px 2px;*/
+    /*border: 0px solid #000000;*/
+}
+article .circle{
+    border:solid 1px black;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    background: white;
+    color:black ;
+    position: absolute;
+    left: -21px;
+    top:75px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    border-color: transparent;
+    font-size: 14px;
+    line-height: 12px;
+    -webkit-box-shadow: 0px 0px 7px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 7px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 7px 0px rgba(0,0,0,0.75);
+    z-index: 2;
+
 }
