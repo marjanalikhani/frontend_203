@@ -25,7 +25,7 @@
     right: -360px;
     color: orangered;
     font-family: sans;
-    z-index: 2;
+    
 }
 .nav03{
     position: absolute;
@@ -34,7 +34,7 @@
     color: orangered;
 
     font-family: sans;
-    z-index: 2;
+
 }
 .nav04{
     position: absolute;
