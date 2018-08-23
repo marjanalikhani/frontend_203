@@ -517,3 +517,9 @@ article .pishrfte02{
     -webkit-border-radius: 2px 2px 2px 2px;
     border: 0px solid #000000;
 }
+
+
+article img{
+    width: 400px;
+    margin-right: 80px;
+}
